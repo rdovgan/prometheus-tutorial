@@ -7,12 +7,17 @@ This repository contains comprehensive guides and resources for setting up, conf
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
 For detailed installation instructions, please refer to the [Installation Guide](./installation.md).
+
+## Usage
+
+To learn how to use Prometheus for monitoring your applications, please refer to the [Usage Guide](./usage.md).
 
 ## Contributing
 
@@ -23,3 +28,4 @@ Please read our [Contribution Guidelines](./contributing.md) before contributing
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE). Feel free to use and distribute the content of this repository according to the terms of the license.
+
