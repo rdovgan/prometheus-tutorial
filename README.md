@@ -8,7 +8,6 @@ This repository contains comprehensive guides and resources for setting up, conf
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -18,12 +17,6 @@ For detailed installation instructions, please refer to the [Installation Guide]
 ## Usage
 
 To learn how to use Prometheus for monitoring your applications, please refer to the [Usage Guide](./usage.md).
-
-## Contributing
-
-We welcome contributions to improve this guide! Whether it's fixing a typo, adding new content, or suggesting enhancements, your contributions help make this guide better for everyone.
-
-Please read our [Contribution Guidelines](./contributing.md) before contributing to the project.
 
 ## License
 
